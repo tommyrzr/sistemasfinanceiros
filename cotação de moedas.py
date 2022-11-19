@@ -1,3 +1,5 @@
+#pip install httpx
+
 import httpx
 
 moeda_base = input('Digite a moeda de base: ').upper()
